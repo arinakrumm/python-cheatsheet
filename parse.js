@@ -8,7 +8,7 @@
 // export NODE_PATH=/usr/local/lib/node_modules
 // to the ~/.bash_profile or ~/.bashrc file and run '$ bash'.
 
-//Change new comment on branch2
+//Change new comment on branch2 again
 const fs = require('fs');
 const jsdom = require('jsdom');
 const showdown  = require('showdown');
